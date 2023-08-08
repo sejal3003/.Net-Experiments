@@ -1,0 +1,10 @@
+C:\Users\Sejal\source\repos\Calculator.cs\Calculator.cs\bin\Debug\Calculator.cs.exe.config
+C:\Users\Sejal\source\repos\Calculator.cs\Calculator.cs\bin\Debug\Calculator.cs.exe
+C:\Users\Sejal\source\repos\Calculator.cs\Calculator.cs\bin\Debug\Calculator.cs.pdb
+C:\Users\Sejal\source\repos\Calculator.cs\Calculator.cs\obj\Debug\Calculator.cs.csproj.AssemblyReference.cache
+C:\Users\Sejal\source\repos\Calculator.cs\Calculator.cs\obj\Debug\Calculator.cs.Form1.resources
+C:\Users\Sejal\source\repos\Calculator.cs\Calculator.cs\obj\Debug\Calculator.cs.Properties.Resources.resources
+C:\Users\Sejal\source\repos\Calculator.cs\Calculator.cs\obj\Debug\Calculator.cs.csproj.GenerateResource.cache
+C:\Users\Sejal\source\repos\Calculator.cs\Calculator.cs\obj\Debug\Calculator.cs.csproj.CoreCompileInputs.cache
+C:\Users\Sejal\source\repos\Calculator.cs\Calculator.cs\obj\Debug\Calculator.cs.exe
+C:\Users\Sejal\source\repos\Calculator.cs\Calculator.cs\obj\Debug\Calculator.cs.pdb

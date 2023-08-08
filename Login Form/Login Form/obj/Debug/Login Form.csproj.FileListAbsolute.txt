@@ -1,0 +1,10 @@
+C:\Users\Sejal\source\repos\Login Form\Login Form\bin\Debug\Login Form.exe.config
+C:\Users\Sejal\source\repos\Login Form\Login Form\bin\Debug\Login Form.exe
+C:\Users\Sejal\source\repos\Login Form\Login Form\bin\Debug\Login Form.pdb
+C:\Users\Sejal\source\repos\Login Form\Login Form\obj\Debug\Login Form.csproj.AssemblyReference.cache
+C:\Users\Sejal\source\repos\Login Form\Login Form\obj\Debug\Login_Form.Form1.resources
+C:\Users\Sejal\source\repos\Login Form\Login Form\obj\Debug\Login_Form.Properties.Resources.resources
+C:\Users\Sejal\source\repos\Login Form\Login Form\obj\Debug\Login Form.csproj.GenerateResource.cache
+C:\Users\Sejal\source\repos\Login Form\Login Form\obj\Debug\Login Form.csproj.CoreCompileInputs.cache
+C:\Users\Sejal\source\repos\Login Form\Login Form\obj\Debug\Login Form.exe
+C:\Users\Sejal\source\repos\Login Form\Login Form\obj\Debug\Login Form.pdb
