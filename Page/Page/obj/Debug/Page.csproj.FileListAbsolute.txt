@@ -1,0 +1,10 @@
+C:\Users\Sejal\source\repos\Page\Page\bin\Debug\Page.exe.config
+C:\Users\Sejal\source\repos\Page\Page\bin\Debug\Page.exe
+C:\Users\Sejal\source\repos\Page\Page\bin\Debug\Page.pdb
+C:\Users\Sejal\source\repos\Page\Page\obj\Debug\Page.csproj.AssemblyReference.cache
+C:\Users\Sejal\source\repos\Page\Page\obj\Debug\Page.Form1.resources
+C:\Users\Sejal\source\repos\Page\Page\obj\Debug\Page.Properties.Resources.resources
+C:\Users\Sejal\source\repos\Page\Page\obj\Debug\Page.csproj.GenerateResource.cache
+C:\Users\Sejal\source\repos\Page\Page\obj\Debug\Page.csproj.CoreCompileInputs.cache
+C:\Users\Sejal\source\repos\Page\Page\obj\Debug\Page.exe
+C:\Users\Sejal\source\repos\Page\Page\obj\Debug\Page.pdb
